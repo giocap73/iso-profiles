@@ -11,12 +11,10 @@ firefox
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
-breath-wallpaper
 mate-wallpapers
 mate-icon-theme
 xcursor-breeze
 mate-gtk3
-#mate-extra-gtk3
 galculator
 marco-gtk3
 brisk-menu 
@@ -96,8 +94,6 @@ pulseaudio-zeroconf
 >systemd networkmanager
 >systemd ntp
 >systemd openssh
-#>systemd plymouth-legacy
-#plymouth-theme-manjaro-elegant
 terminus-font
 ttf-bitstream-vera
 ttf-dejavu
