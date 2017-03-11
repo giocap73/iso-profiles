@@ -19,7 +19,6 @@ gnome-calculator
 gnome-control-center
 gnome-disk-utility
 gnome-font-viewer
-gnome-keyring
 gnome-settings-daemon
 gnome-system-log
 gnome-system-monitor
@@ -36,6 +35,7 @@ sushi
 vino
 gedit
 firefox
+chromium
 gparted
 grilo-plugins
 gst-libav
